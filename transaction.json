@@ -1,0 +1,23 @@
+{
+  "branch": "BLN7U4i5o8RKtNXChBGL7ebCekRA36TJjwivUZLWzyixmHrFwZ9",
+  "contents": [
+    {
+      "kind": "transaction",
+      "source": "tz1QLLbmqmrnfy7pBSzLCsY4RGSoB7t7Y72q",
+      "fee": "0500000",
+      "counter": "35441",
+      "gas_limit": "800000",
+      "storage_limit": "60000",
+      "amount": "1000000",
+      "destination": "KT1LcJ9TriBd42e1MT2CtsZhEfC5tKP8LKnW",
+      "parameters": {
+        "prim": "Left",
+        "args": [
+          {
+            "string": "some_test_email_3"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+curl 'http://alphanet-node.tzscan.io/injection/operation' -H 'Content-Type: application/json' -d @transaction_binary_signed.json --compressed --insecure
